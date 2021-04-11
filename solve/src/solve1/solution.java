@@ -30,7 +30,6 @@ public class solution {
         	
         	if(i==(bag.size()-1)) { //모든 인덱스에 대해 검사를 마쳤다면 반복문을 빠져나온다.
         
- 
         		break;
         	}
         	

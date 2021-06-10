@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /*
- 
+ 	인덱스 
  */
 public class dupliCharRemove {
 	public String solution(String str) {
